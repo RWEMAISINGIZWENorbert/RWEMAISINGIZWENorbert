@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RWEMAISINGIZWENorbert
+- 👋 Hi, I’m @rwema
 <!---- - 👀 I’m interested in web development and building responsive website
 - 🌱 I’m currently learning Software Development 
 - 💞️ I’m looking to collaborate on experts  ---->
